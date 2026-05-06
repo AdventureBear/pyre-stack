@@ -10,8 +10,8 @@ yarn-error.log*
 
 .vscode/*
 
-/.idea
 
+.idea/
 
 .venv/
 __pycache__/
